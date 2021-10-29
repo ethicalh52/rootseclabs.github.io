@@ -1,3 +1,3 @@
 ## subdomain takeover
-sudomain takeover poc
+subdomain takeover poc
 ## secretguard
